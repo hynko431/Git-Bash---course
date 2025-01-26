@@ -1,2 +1,4 @@
 Get the user data...
-process
+process 
+
+create an avatar for user
